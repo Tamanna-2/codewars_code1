@@ -1,0 +1,1 @@
+# codewars_code1
